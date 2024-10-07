@@ -1,5 +1,6 @@
 table, tr, th, td {
   border: 1;
+  
 }
 
 body {
@@ -7,7 +8,7 @@ body {
 }
 
 th {
-  vertical-align:top;
+  vertical-align:center;
 }
 
 td {
@@ -21,4 +22,10 @@ th {
 
 ul {
    margin:0;
+}
+
+table {
+  border:1px solid #c9daf8;
+  max-width:850px;
+  margin:auto;
 }
